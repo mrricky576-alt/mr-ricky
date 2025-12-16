@@ -21,6 +21,6 @@
 
   # project
   - has build a school website for **Wisdom international college**
-  - has contributed in developing a project in school [ricky]
+  - has contributed in developing a project in school [ricky](https://github.com/mrricky576-alt/our-git-work.git)
 
 
