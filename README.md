@@ -10,5 +10,11 @@
 ### 2022-2023 in form 5. school at Wisdom international college  
 ### 2024-2025 in uppersixth. school at Wisdom international college  
 ### 2025-2026 in level 1. school at YIBS
+# skill  
+- javascript  
+- html  
+- css  
+- c/c++  
+- python  
 
 
