@@ -20,7 +20,7 @@
 - python
 
   # project
-  - has build a school website for *Wisdom international college*
+  - has build a school website for **Wisdom international college**
   - has contributed in developing a game 
 
 
